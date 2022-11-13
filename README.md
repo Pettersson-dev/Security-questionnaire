@@ -6,7 +6,7 @@
 * Do you have any security certifications usch as ISO27001, HIIPA or PCI DSS?
 * Do you have a business continuity plan?
 * Do you have security awareness training?
-* Do you perform background checka in employees?
+* Do you perform background checks on employees?
 
 # Solution
 * Describe the solution 
