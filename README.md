@@ -25,3 +25,4 @@
 * Do you apply hardening of systems?
 * Do you use multi-factor authentication?
 * Do you have controls in place to protect client systems from malware?
+Does your company use firewalls to restrict traffic into and out of your network at strategic points?
