@@ -1,7 +1,23 @@
-# Security-questionnaire
+# Security-questionnaire - WIP
 
 # Policies and organisation 
+* Who is responsible for security?
+* Do you have a security program in place?
+* Do you have any security certifications usch as ISO27001, HIIPA or PCI DSS?
+* Do you have a business continuity plan?
+* Do you have security awareness training?
+* Do you perform background checka in employees?
 
 # Solution
+* Describe the solution 
+* Does the solution contain PII or sensitive information?
+* Is the solution multitenant?
+* Where is the solution hosted?
+* Does the solution support SSO?
+* How is data at rest protected?
+* How is data in transport protected?
+
 
 # Technical controls 
+* Do you perform pentests?
+* Do you have static security analysis of source code?
