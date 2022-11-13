@@ -27,3 +27,4 @@
 * Do you have controls in place to protect client systems from malware?
 * Does your company use firewalls to restrict traffic into and out of your network at strategic points?
 * Are your client systems configured to log security-relevant events, such as authentication, data access, etc.?
+* Do you have a process for installing operating system and application updates and security patches?
