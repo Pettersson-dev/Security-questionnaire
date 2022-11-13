@@ -33,7 +33,8 @@
 * Do you have a process for backup and recovery?
 
 # Physical security
+* Where is your worforce located?
 * Are all facilities used exclusively by your company, or are some shared?
 * Does the company review the physical and environmental risks and adress them?
 * Do you have a written policy that lists the physical security requirements for office facilities?
-* Where is your worforce located?
+
