@@ -14,12 +14,12 @@
 * Describe the solution.
 * Describe the architecture of the solution.
 * Does the solution contain PII or sensitive information?
-* Is the solution multitenant?
 * Where is the solution hosted?
+* Is the solution multitenant?
+* Do you use Google Cloud, Azure, Amazon Web Services, or a similar outsourced data center?
 * Does the solution support SSO?
 * How is data at rest protected?
 * How is data in transport protected?
-* Do you use Google Cloud, Azure, Amazon Web Services, or a similar outsourced, virtual-machine-based data center?
 
 # Technical controls 
 * Do you perform pentests?
