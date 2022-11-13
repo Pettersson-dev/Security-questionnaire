@@ -11,7 +11,8 @@
 * Do you perform background checks on employees?
 
 # Solution
-* Describe the solution 
+* Describe the solution.
+* Describe the architecture of the solution.
 * Does the solution contain PII or sensitive information?
 * Is the solution multitenant?
 * Where is the solution hosted?
