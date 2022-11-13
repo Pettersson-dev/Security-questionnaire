@@ -1,6 +1,8 @@
 # Security-questionnaire - WIP
 
 # Policies and organisation 
+* Describe the company
+* Where is the company located?
 * Who is responsible for security?
 * Do you have a security program in place?
 * Do you have any security certifications usch as ISO27001, HIIPA or PCI DSS?
