@@ -21,3 +21,7 @@
 # Technical controls 
 * Do you perform pentests?
 * Do you have static security analysis of source code?
+* Do you have monitoring in place?
+* Do you apply hardening of systems?
+* Do you use multi-factor authentication?
+* Do you have controls in place to protect client systems from malware?
