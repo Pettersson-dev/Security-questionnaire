@@ -18,7 +18,7 @@
 * Does the solution support SSO?
 * How is data at rest protected?
 * How is data in transport protected?
-
+* Do you use Google Cloud, Azure, Amazon Web Services, or a similar outsourced, virtual-machine-based data center?
 
 # Technical controls 
 * Do you perform pentests?
@@ -31,3 +31,9 @@
 * Are your client systems configured to log security-relevant events, such as authentication, data access, etc.?
 * Do you have a process for installing operating system and application updates and security patches?
 * Do you have a process for backup and recovery?
+
+# Physical security
+* Are all facilities used exclusively by your company, or are some shared?
+* Does the company review the physical and environmental risks and adress them?
+* Do you have a written policy that lists the physical security requirements for office facilities?
+* Where is your worforce located?
