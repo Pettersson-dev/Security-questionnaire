@@ -5,7 +5,7 @@
 * Where is the company located?
 * Who is responsible for security?
 * Do you have a security program in place?
-* Do you have any security certifications such as ISO27001, HIIPAA or PCI DSS etc?
+* Do you have any security certifications such as ISO27001, HIIPAA, SOC2 or PCI DSS etc?
 * Do you have a business continuity plan?
 * Do you perform security awareness training?
 * Do you perform background checks on employees?
