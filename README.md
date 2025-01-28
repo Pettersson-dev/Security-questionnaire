@@ -1,41 +1,105 @@
-# Security-questionnaire - WIP
+# Security Questionnaire
 
-# Policies and organisation 
-* Describe the company
-* Where is the company located?
-* Who is responsible for security?
-* Do you have a security program in place?
-* Do you have any security certifications such as ISO27001, HIIPAA, SOC2 or PCI DSS etc?
-* Do you have a business continuity plan?
-* Do you perform security awareness training?
-* Do you perform background checks on employees?
+## **Policies and Organization**  
+1. **Describe the company**  
+   - Provide an overview of your company’s mission, size, and primary operations.  
 
-# Solution
-* Describe the solution.
-* Describe the architecture of the solution.
-* Does the solution contain PII or sensitive information?
-* Where is the solution hosted?
-* Is the solution multitenant?
-* Do you use Google Cloud, Azure, Amazon Web Services, or a similar outsourced data center?
-* Does the solution support SSO?
-* How is data at rest protected?
-* How is data in transport protected?
+2. **Where is the company located?**  
+   - List headquarters and other key office locations.  
 
-# Technical controls 
-* Do you perform pentests?
-* Do you perform static security analysis of source code?
-* Do you have monitoring in place?
-* Do you apply hardening of systems?
-* Do you use multi-factor authentication?
-* Do you have controls in place to protect client systems from malware?
-* Does your company use firewalls to restrict traffic into and out of your network at strategic points?
-* Are your client systems configured to log security-relevant events, such as authentication, data access, etc.?
-* Do you have a process for installing operating system and application updates and security patches?
-* Do you have a process for backup and recovery?
+3. **Who is responsible for security?**  
+   - Identify key roles such as Chief Information Security Officer (CISO) or Security Manager.  
 
-# Physical security
-* Where is your worforce located?
-* Are all facilities used exclusively by your company, or are some shared?
-* Does the company review the physical and environmental risks and adress them?
-* Do you have a written policy that lists the physical security requirements for office facilities?
+4. **Do you have a security program in place?**  
+   - Outline your program, including governance, risk management, and compliance efforts.  
+
+5. **Do you have any security certifications?**  
+   - Specify certifications such as ISO 27001, HIPAA, SOC 2, PCI DSS, etc.  
+
+6. **Do you have a business continuity plan?**  
+   - Summarize how your company ensures operational continuity during disruptions.  
+
+7. **Do you perform security awareness training?**  
+   - Indicate frequency and scope of training for employees.  
+
+8. **Do you perform background checks on employees?**  
+   - Detail the types of checks conducted (e.g., criminal, employment, education).  
+
+---  
+
+## **Solution**  
+1. **Describe the solution.**  
+   - Provide an overview of the product/service and its purpose.  
+
+2. **Describe the architecture of the solution.**  
+   - Include diagrams or a written description of components and interactions.  
+
+3. **Does the solution contain PII or sensitive information?**  
+   - Specify types of data handled (e.g., PII, financial, health).  
+
+4. **Where is the solution hosted?**  
+   - Detail hosting environments (e.g., cloud providers, on-premises).  
+
+5. **Is the solution multitenant?**  
+   - Clarify whether data and resources are shared among clients.  
+
+6. **Do you use Google Cloud, Azure, AWS, or similar?**  
+   - List cloud platforms and their certifications.  
+
+7. **Does the solution support SSO?**  
+   - Specify supported Single Sign-On (SSO) protocols (e.g., SAML, OAuth).  
+
+8. **How is data at rest protected?**  
+   - Describe encryption standards (e.g., AES-256) and storage security.  
+
+9. **How is data in transport protected?**  
+   - Specify transport protocols (e.g., HTTPS, TLS 1.2/1.3).  
+
+---  
+
+## **Technical Controls**  
+1. **Do you perform pentests?**  
+   - Frequency and scope of penetration testing.  
+
+2. **Do you perform static security analysis of source code?**  
+   - Tools and methodologies used for secure code reviews.  
+
+3. **Do you have monitoring in place?**  
+   - Specify tools and processes for detecting and responding to threats.  
+
+4. **Do you apply hardening of systems?**  
+   - Detail frameworks and techniques (e.g., CIS benchmarks).  
+
+5. **Do you use multi-factor authentication?**  
+   - Outline MFA implementation for employees and clients.  
+
+6. **Do you have controls in place to protect client systems from malware?**  
+   - Tools and policies for malware detection and prevention.  
+
+7. **Do you use firewalls?**  
+   - Describe placement and rules for traffic control.  
+
+8. **Are client systems configured to log security-relevant events?**  
+   - Specify logging mechanisms and storage solutions.  
+
+9. **Do you have a process for installing updates and patches?**  
+   - Detail patch management practices and timelines.  
+
+10. **Do you have a process for backup and recovery?**  
+   - Explain frequency, storage, and testing of backups.  
+
+---  
+
+## **Physical Security**  
+1. **Where is your workforce located?**  
+   - Specify office locations and remote work policies.  
+
+2. **Are facilities used exclusively by your company or shared?**  
+   - Clarify facility ownership or shared use with other tenants.  
+
+3. **Does the company review physical and environmental risks?**  
+   - Detail risk assessment frequency and mitigation measures.  
+
+4. **Do you have a written physical security policy?**  
+   - Include access control, surveillance, and visitor management requirements.  
 
